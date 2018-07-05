@@ -1,0 +1,23 @@
+{
+  "name": "soleurs.js",
+  "version": "0.0.4",
+  "description": "Good morning. How's everyone doin?",
+  "main": "Soleurs.js",
+  "scripts": {
+    "test": "sb ping"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnNotTech/Soleurs.js.git"
+  },
+  "author": "NSAJC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnNotTech/Soleurs.js/issues"
+  },
+  "homepage": "https://github.com/JohnNotTech/Soleurs.js#readme",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "ontime": "0.0.5"
+  }
+}
